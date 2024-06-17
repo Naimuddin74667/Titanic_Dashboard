@@ -29,8 +29,8 @@ Below are the details of the Key Columns of the Dataset used for the Dashboard :
 - *Fare* : This feature follows Right Skewed Distribution. So, I have used the Inter Quantile Range Method to handle Outliers.
 
 
-<img width="370" height="350" alt="box plot" src="https://github.com/Naimuddin74667/Titanic_Dashboard/assets/71082094/3d131067-8c84-48c0-a929-fa94de928930">
-<img width="564" height="350" alt="Outliers" src="https://github.com/Naimuddin74667/Titanic_Dashboard/assets/71082094/2f299a66-e010-4bc4-a7ae-678057f722cc">
+<img width="300" height="300" alt="box plot" src="https://github.com/Naimuddin74667/Titanic_Dashboard/assets/71082094/3d131067-8c84-48c0-a929-fa94de928930">
+<img width="450" height="350" alt="Outliers" src="https://github.com/Naimuddin74667/Titanic_Dashboard/assets/71082094/2f299a66-e010-4bc4-a7ae-678057f722cc">
 
 
 
